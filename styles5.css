@@ -1,0 +1,42 @@
+.orlando {
+    position: absolute;
+    top: 15px;
+    left: 180px;
+}
+
+.top{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 10px;
+    font-size: 19px;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifas;
+    background-color: black;}
+.history{
+    position: absolute;
+    top:100px;
+    left: 450px;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.jim{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    background-color: white;
+}
+.info{
+    position: absolute;
+    top: 400px;
+    font-size: larger;
+}
+.link{
+    position: absolute;
+    top:700px;
+}
+.tim{
+    position: absolute;
+    top: 100px;
+    left: 900px;
+    background-color: white;
+}

@@ -1,0 +1,30 @@
+.orlando {
+    position: absolute;
+    top: 15px;
+    left: 180px;
+}
+
+.top{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 10px;
+    font-size: 19px;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifas;
+    background-color: black;}
+ .jim{
+    position: absolute;
+    top: 130px;
+    left: 400px;
+    background-color: lightgray;
+}
+.title{
+    position:absolute;
+    left: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+.body{
+    position:absolute;
+    top:150px;
+}

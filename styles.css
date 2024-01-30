@@ -1,0 +1,77 @@
+.title{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    letter-spacing: 1px;
+}
+.info{
+    position: absolute;
+    top: 130px;
+    left: 100px;
+    right: 600px;
+    font-size:larger;
+    color: rgb(39, 38, 38);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.jim{
+    position: absolute;
+    top: 50px;
+    left: 800px;
+    right: 90px;
+}
+.dan{
+    position: absolute;
+    top: 400px;
+    padding-bottom: 8px;
+}
+.top{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 5px;
+    font-size: 19px;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifas;
+    background-color: black;
+}
+.orlando {
+    position: absolute;
+    top: 15px;
+    left: 180px;
+    text-align: center;
+}
+.info2{
+    position: absolute;
+    top: 500px;
+    left: 980px;
+    right: 120px;
+    font-size:larger;
+    color: rgb(39, 38, 38);
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.title2{
+    position: absolute;
+    top: 450px;
+    left: 1015px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+.footer{
+    position: absolute;
+    top: 150%;
+    height: 300px;
+    width: 100%;
+    font-size: 70px;
+    color: aliceblue;
+    background-color: black;
+}
+.footer2{
+    position: absolute;
+    top: 150%;
+    height: 350px;
+    width: 100%;
+    font-size: 40px;
+    color: aliceblue;
+    background-color: black;
+}
